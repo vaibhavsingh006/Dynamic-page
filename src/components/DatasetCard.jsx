@@ -42,7 +42,7 @@ export default function DatasetCard({ dataset }) {
         </div>
       </div>
 
-      <p className="text-gray-700 text-sm mb-5 line-clamp-3 flex-grow leading-relaxed">
+      <p className="text-gray-700 text-sm mb-5 line-clamp-3 leading-relaxed">
         {dataset.description}
       </p>
 
