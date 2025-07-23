@@ -1,12 +1,27 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Dataset Listing App
 
-Currently, two official plugins are available:
+This is a responsive dataset listing page built as part of the assignment for the 'Senior Frontend Engineer' role.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack & Tools
 
-## Expanding the ESLint configuration
+- Framework: [React.js]
+- Styling: [Tailwind CSS]
+- Icons: [Lucide React]
+- Deployment: [Netlify]
+- Version Control: Git + GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Live Deployment
+
+-  View the Deployed App Here - (https://comforting-truffle-364b8d.netlify.app/)
+
+## How to Run Locally
+
+1. Clone the Repository
+   ```bash
+   
+   git clone https://github.com/vaibhavsingh006/Dynamic-page.git
+   cd Dynamic-page
+   npm install
+   npm run dev
